@@ -1,6 +1,10 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I am Win Pa Pa Thu. I am a Software Developer. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
+Win Pa Pa Thu | Software Developer
+
+Passionate about software development, system design, and emerging technologies. Always open to collaborating on interesting projects, innovative ideas, and new opportunities.
+
+📫 Feel free to connect with me here:
 
 
 ## ⚡ Technologies
